@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "producto A",
+        "description": "descripcion del producto A",
+        "price": 500,
+        "code": "ABC1",
+        "stok": 5,
+        "status":true
+      },
+      {
+        "id":2,
+        "title": "producto B",
+        "description": "descripcion del producto B",
+        "price": 1000,
+        "code": "ABC12",
+        "stok": 10,
+        "status":true
+      },
+      {
+        "id":3,
+        "title": "producto C",
+        "description": "descripcion del producto C",
+        "price": 1500,
+        "code": "ABC123",
+        "stok": 15,
+        "status": true
+      }
+]
