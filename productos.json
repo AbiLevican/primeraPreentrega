@@ -1,29 +1,146 @@
 [
-    {
-        "id": 1,
-        "title": "producto A",
-        "description": "descripcion del producto A",
-        "price": 500,
-        "code": "ABC1",
-        "stok": 5,
-        "status":true
-      },
-      {
-        "id":2,
-        "title": "producto B",
-        "description": "descripcion del producto B",
-        "price": 1000,
-        "code": "ABC12",
-        "stok": 10,
-        "status":true
-      },
-      {
-        "id":3,
-        "title": "producto C",
-        "description": "descripcion del producto C",
-        "price": 1500,
-        "code": "ABC123",
-        "stok": 15,
-        "status": true
-      }
+  {
+    "id": 1,
+    "title": "producto A",
+    "description": "descripcion del producto A actualizada",
+    "price": 500,
+    "code": "ABC1",
+    "stok": 5,
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "producto C",
+    "description": "descripcion del producto C",
+    "price": 1500,
+    "code": "ABC123",
+    "stok": 15,
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "producto D",
+    "description": "descripcion del producto D",
+    "price": 500,
+    "code": "ABC1234",
+    "stok": 6,
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "producto D",
+    "description": "descripcion del producto D",
+    "price": 500,
+    "code": "ABC1234",
+    "stok": 6,
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 11,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 12,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 13,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 14,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 15,
+    "title": "producto E",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 16,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 17,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  }
 ]
