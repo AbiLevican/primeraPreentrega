@@ -4,12 +4,12 @@ document.getElementById('ingresoProducto').addEventListener('submit', function (
     event.preventDefault()
     const formData = new FormData(event.target)
     const data = Object.fromEntries(formData.entries())
-    socket.emit('productoData', data)
+    socket.emit('dataProducto', data)
     event.target.reset()
 })
 
 function agregarProducto(producto) {
-    const listaProductos = document.getElementById('listaProductos')
+    const listaProductos = document.getElementById('productos')
     const item = document.createElement('li')
     item.id = `producto: ${producto.id}`
     item.innerHTML = 
@@ -18,7 +18,7 @@ function agregarProducto(producto) {
     description: ${producto.description},
     price: ${producto.price},
     code: ${producto.code},
-    stok: ${producto.stock} 
+    stok: ${producto.stok} 
     <button onclick="borrarProducto(${producto.id})">Eliminar</button>`
     listaProductos.appendChild(item)
 }

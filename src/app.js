@@ -32,7 +32,7 @@ socketServer.on("conexion", socket => {
         console.log(`la data nueva es ${data}`)
     })
 
-    socket.on("productoData", data => {
+    socket.on("dataProducto", data => {
         console.log("Data recibida:", data)
         socketServer.emit("productoData", data) 
     })

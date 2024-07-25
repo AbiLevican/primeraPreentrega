@@ -142,5 +142,68 @@
     "code": "ABC12345",
     "stok": 10,
     "status": true
+  },
+  {
+    "id": 18,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 19,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 20,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 21,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 22,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 23,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
+  },
+  {
+    "id": 24,
+    "title": "producto nuevo",
+    "description": "descripcion del producto E",
+    "price": 1500,
+    "code": "ABC12345",
+    "stok": 10,
+    "status": true
   }
 ]

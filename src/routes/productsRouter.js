@@ -94,7 +94,7 @@ const configuracionRouter = (io) => {                    //agregamos un producto
             }
             
             await guardarProducto(productos)
-            res.json(`se agrego el producto: ${nuevoProducto}`)
+            res.json(nuevoProducto)
             io.emit('dataProducto', nuevoProducto)
 
         } catch (error) {
